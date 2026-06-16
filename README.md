@@ -1,5 +1,5 @@
 # Hi There (>-<)
-I'm Mariam  a [Professional Data Analyst](https://www.datacamp.com/certificate/DA0024030051379) and [Professional Data Scientist](https://www.datacamp.com/certificate/DS0021666522223) based in Kenya. 
+I'm Mariam  a [Professional Data Analyst](https://www.datacamp.com/certificate/DA0024030051379) and [Professional Data Scientist](https://www.datacamp.com/certificate/DS0021666522223) Passionate about transforming raw data into clear insights and business-ready solutions 🚀. 
 
 
 ## Fun facts :
